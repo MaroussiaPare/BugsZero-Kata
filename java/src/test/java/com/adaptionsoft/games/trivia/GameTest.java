@@ -24,4 +24,9 @@ public class GameTest {
         Approvals.verify(resultStream.toString());
 
 	}
+
+    //TODO ParameterizedTest with number of players changing between 2 and 8
+    //TODO Test wrong player number
+
+    //TODO tests all public methods success and exception
 }

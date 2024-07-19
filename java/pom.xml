@@ -4,7 +4,7 @@
     <groupId>com.adaptionsoft.games</groupId>
     <artifactId>uglytrivia</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-US-0000-SNAPSHOT</version>
 
     <dependencies>
         <dependency>

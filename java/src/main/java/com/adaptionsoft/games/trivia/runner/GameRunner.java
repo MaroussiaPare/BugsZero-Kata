@@ -16,10 +16,10 @@ public class GameRunner {
 	}
 
 	public static void playGame(Random rand) {
-		Game aGame = new Game();
+		Player player1 = new Player("Chet");
+		Player player2 = new Player("Pat");
+		Game aGame = new Game(player1, player2);
 
-		aGame.add("Chet");
-		aGame.add("Pat");
 		aGame.add("Sue");
 
 
